@@ -1,4 +1,4 @@
-# Intelligent Offline Smart Doorbell
+# Intelligent but Offline Smart-Doorbell
 
 EC-ENG 535/635 Networked Embedded Systems Design, Fall 2026
 Team: Ojas Singhvi and Munir Safwan
